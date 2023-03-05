@@ -23,6 +23,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/view_pager"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:itemActiveIndicatorStyle="@style/MyApp.Navigation.ActiveIndicator"
         app:menu="@menu/navigation_menu"
         app:labelVisibilityMode="labeled"/>
     <!-- 超过三个菜单后需要添加 app:labelVisibilityMode="labeled" 来显示图标文字 -->
