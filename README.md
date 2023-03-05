@@ -1,7 +1,8 @@
 # bottom-navigation-demo
 ### JetPack
 * ViewPager2
-* Navigation(planned)
+* Navigation (planned)
+* Data Binding (planned)
 ### Material3
 * BottomNavigationView
 * Theme.Material3.DayNight
