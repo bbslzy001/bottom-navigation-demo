@@ -9,7 +9,7 @@
 * MaterialTextView
 ### Feature
 #### Creating an app with Material Design and JetPack
-* use the BottomNavigationView in Navigation as primary navigation.
-* display different fragment using ViewPager3.
+* ~~use the BottomNavigationView in Navigation as primary navigation.~~
+* display different fragment using ViewPager2.
 * Automatically switch between the day and night mode themes using Theme.Material3.DayNight.
-* use JetPack's data binding feature in MaterialTextView to Dynamically set the text content.
+* ~~use JetPack's data binding feature in MaterialTextView to Dynamically set the text content.~~
