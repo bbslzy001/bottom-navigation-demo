@@ -3,3 +3,4 @@
 * Fragment
 * BottomNavigationView
 * Theme.Material3.DayNight
+* MaterialTextView
