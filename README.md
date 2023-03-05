@@ -1,6 +1,8 @@
 # bottom-navigation-demo
+### JetPack
 * ViewPager2
-* Fragment
+* Navigation(planned)
+### Material3
 * BottomNavigationView
 * Theme.Material3.DayNight
 * MaterialTextView
