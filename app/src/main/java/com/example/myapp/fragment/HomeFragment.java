@@ -1,4 +1,4 @@
-package com.example.myapplication3.fragment;
+package com.example.myapp.fragment;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.myapplication3.R;
+import com.example.myapp.R;
 
 public class HomeFragment extends Fragment
 {

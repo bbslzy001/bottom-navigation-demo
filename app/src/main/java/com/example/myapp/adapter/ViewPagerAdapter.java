@@ -1,13 +1,13 @@
-package com.example.myapplication3.adapter;
+package com.example.myapp.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.example.myapplication3.fragment.HomeFragment;
-import com.example.myapplication3.fragment.AnalyseFragment;
-import com.example.myapplication3.fragment.IndividualFragment;
+import com.example.myapp.fragment.HomeFragment;
+import com.example.myapp.fragment.AnalyseFragment;
+import com.example.myapp.fragment.IndividualFragment;
 
 import java.util.List;
 

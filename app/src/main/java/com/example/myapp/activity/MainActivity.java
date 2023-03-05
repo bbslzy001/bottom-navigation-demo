@@ -1,12 +1,12 @@
-package com.example.myapplication3.activity;
+package com.example.myapp.activity;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager2.widget.ViewPager2;
 
-import android.os.Bundle;
-
-import com.example.myapplication3.R;
-import com.example.myapplication3.adapter.ViewPagerAdapter;
+import com.example.myapp.adapter.ViewPagerAdapter;
+import com.example.myapp.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity

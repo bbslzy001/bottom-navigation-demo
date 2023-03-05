@@ -1,4 +1,4 @@
-package com.example.myapplication3.fragment;
+package com.example.myapp.fragment;
 
 import android.os.Bundle;
 
@@ -8,9 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.myapplication3.R;
+import com.example.myapp.R;
 
-public class AnalyseFragment extends Fragment
+public class IndividualFragment extends Fragment
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -21,6 +21,6 @@ public class AnalyseFragment extends Fragment
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
-        return inflater.inflate(R.layout.fragment_analyse, container, false);
+        return inflater.inflate(R.layout.fragment_individual, container, false);
     }
 }
