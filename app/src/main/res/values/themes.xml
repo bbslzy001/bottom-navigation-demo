@@ -19,6 +19,6 @@
     </style>
 
     <style name="MyApp.Navigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
-        <item name="android:color">#AED581</item>
+        <item name="android:color">#C5E1A5</item>
     </style>
 </resources>
