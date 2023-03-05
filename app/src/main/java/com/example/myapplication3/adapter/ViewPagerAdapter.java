@@ -5,18 +5,18 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.example.myapplication3.fragment.FirstFragment;
-import com.example.myapplication3.fragment.SecondFragment;
-import com.example.myapplication3.fragment.ThirdFragment;
+import com.example.myapplication3.fragment.HomeFragment;
+import com.example.myapplication3.fragment.AnalyseFragment;
+import com.example.myapplication3.fragment.IndividualFragment;
 
 import java.util.List;
 
 public class ViewPagerAdapter extends FragmentStateAdapter
 {
     private final List<Fragment> fragmentList = List.of(
-            new FirstFragment(),
-            new SecondFragment(),
-            new ThirdFragment()
+            new HomeFragment(),
+            new AnalyseFragment(),
+            new IndividualFragment()
     );
 
     public ViewPagerAdapter(@NonNull FragmentActivity fragmentActivity)

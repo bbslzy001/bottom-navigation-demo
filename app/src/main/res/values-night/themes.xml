@@ -1,5 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+<resources>
+    <!-- Base application theme -->
     <style name="Theme.MyApplication3" parent="Theme.Material3.DayNight">
         <!-- Primary brand color -->
         <item name="colorPrimary">#2E7D32</item>
@@ -9,9 +9,12 @@
         <item name="colorSecondary">#689F38</item>
         <item name="colorSecondaryVariant">#81C784</item>
 
-        <!-- Status bar color. -->
+        <!-- Status bar color -->
         <item name="android:statusBarColor">#1E2321</item>
         <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">#1E2321</item>
     </style>
 
     <style name="MyApp.Navigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
