@@ -3,19 +3,19 @@
 
     <style name="Theme.MyApp" parent="Theme.Material3.DayNight">
         <!-- Primary brand color -->
-        <item name="colorPrimary">#2E7D32</item>
-        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorPrimary">#8BC34A</item>
+        <item name="colorPrimaryVariant">#4CAF50</item>
 
         <!-- Secondary brand color -->
-        <item name="colorSecondary">#689F38</item>
+        <item name="colorSecondary">#558B2F</item>
         <item name="colorSecondaryVariant">#81C784</item>
 
         <!-- Status bar color -->
-        <item name="android:statusBarColor">#1E2321</item>
+        <item name="android:statusBarColor">#252823</item>
         <item name="android:windowLightStatusBar">false</item>
 
         <!-- Navigation bar color -->
-        <item name="android:navigationBarColor">#1E2321</item>
+        <item name="android:navigationBarColor">#252823</item>
         <item name="android:windowLightNavigationBar">false</item>
     </style>
 </resources>
